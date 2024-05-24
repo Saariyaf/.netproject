@@ -1,0 +1,6 @@
+@Thebigbash_HostAddress = http://localhost:5062
+
+GET {{Thebigbash_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

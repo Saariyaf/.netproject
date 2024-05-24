@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\data\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\data\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\data\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\data\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|c:\\users\\sumayya\\desktop\\project\\thebigbash.api\\thebigbash\\thebigbash\\thebigbash.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAE770CA-BFF5-4D51-838B-11E677DF3AC0}|Thebigbash\\Thebigbash.csproj|solutionrelative:thebigbash\\thebigbash.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Startup.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Startup.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Startup.cs",
+              "RelativeToolTip": "Thebigbash\\Startup.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T07:45:58.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "Thebigbash\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:22:04.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Data\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Data\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Data\\BlogRepository.cs",
+              "RelativeToolTip": "Thebigbash\\Data\\BlogRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T04:02:59.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Thebigbash.csproj",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Thebigbash.csproj",
+              "RelativeDocumentMoniker": "Thebigbash\\Thebigbash.csproj",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Thebigbash.csproj",
+              "RelativeToolTip": "Thebigbash\\Thebigbash.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T03:56:32.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\appsettings.json",
+              "RelativeDocumentMoniker": "Thebigbash\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\appsettings.json",
+              "RelativeToolTip": "Thebigbash\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T04:27:41.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Program.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Program.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Program.cs",
+              "RelativeToolTip": "Thebigbash\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T05:01:14.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Models\\Blog.cs",
+              "RelativeToolTip": "Thebigbash\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:57:56.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Data\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "Thebigbash\\Data\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Data\\IBlogRepository.cs",
+              "RelativeToolTip": "Thebigbash\\Data\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T17:38:37.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Thebigbash\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Sumayya\\Desktop\\Project\\TheBigBash.api\\Thebigbash\\Thebigbash\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Thebigbash\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T04:57:46.079Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
